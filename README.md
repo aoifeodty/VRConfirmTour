@@ -9,4 +9,4 @@ I created a digital twin of the manufacturing line in Confirm, but since I did t
 
 This VR experience is being used as a training tool to onboard employees by allowing them to virtually explore the campus before they come on-site.
 
-https://github.com/aoifeodty/VRConfirmTour/blob/main/VRFactoryWalkthrough.mp4
+Factory Walkthrough: https://github.com/aoifeodty/VRConfirmTour/blob/main/VRFactoryWalkthrough.mp4
